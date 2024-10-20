@@ -92,6 +92,3 @@ Feel free to fork this repository and submit pull requests for any improvements 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This Markdown version ensures that the code blocks, lists, and headings are formatted properly for GitHub's markdown renderer. You can directly copy this into your `README.md` file, and it should display correctly on your repository page.
